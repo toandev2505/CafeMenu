@@ -1,2 +1,2 @@
-# CafeMenu.github.io
+# CafeMenu
 HTML, CSS
